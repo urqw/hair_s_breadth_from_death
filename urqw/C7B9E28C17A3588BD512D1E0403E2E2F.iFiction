@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>C7B9E28C17A3588BD512D1E0403E2E2F</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>На волосок от смерти</title>
+			<author>Евгений Туголуков (Korwin) и Дженни</author>
+			<language>ru</language>
+			<headline>Квест о космосе и человеке</headline>
+			<firstpublished>2012-08-07</firstpublished>
+			<genre>Фантастика</genre>
+			<group>URQ</group>
+			<description>- Теперь твое задание, Виктор, - командор Биг повернулся к тебе. - Двигаться от базы на север на расстояние до 500 километров, высота 5000 метров. Задача - поиск искусственных объектов. Обнаружишь что-то интересное - спустишься пониже. Ниже 300 метров старайся не спускаться. Высадку тоже запрещаю. По достижении заданного удаления - возвращаешься зигзагом шириной до 50 километров, радиус разворота 5 километров. В твоем распоряжении 6 часов. Вопросы есть?<br/>Квест о Викторе Викторовиче Санине, часть 1.</description>
+			<series>Виктор Викторович Санин</series>
+			<seriesnumber>1</seriesnumber>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#hair_s_breadth_from_death</url>
+			<authoremail>tightbow@yandex.ru</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-11-21</originated>
+		</colophon>
+	</story>
+</ifindex>
