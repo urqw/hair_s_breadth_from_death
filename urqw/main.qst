@@ -2,20 +2,20 @@
 perkill
 invkill
 textalign=3
-pln ***
+pln <div style="text-align: center;">***</div>
 style_dos_textcolor=12
-pln НА ВОЛОСОК ОТ СМЕРТИ
+pln <div style="text-align: center;">НА ВОЛОСОК ОТ СМЕРТИ</div>
 style_dos_textcolor=11
-pln квест о космосе и человеке
-pln от Korwin ##38$ Jenny
+pln <div style="text-align: center;">квест о космосе и человеке</div>
+pln <div style="text-align: center;">от Korwin ##38$ Jenny</div>
 style_dos_textcolor=7
-pln ***
+pln <div style="text-align: center;">***</div>
 style_dos_textcolor=6
 textalign=2
-pln И если бы ты не вернулся назад,
-pln кто бы пошел вперед?
-pln А. и Б. Стругацкие.
-pln ("Полдень, XXII век")
+pln <div style="text-align: right;">И если бы ты не вернулся назад,#/$
+_кто бы пошел вперед?#/$
+_А. и Б. Стругацкие.#/$
+_("Полдень, XXII век")</div>
 style_dos_textcolor=7
 textalign=1
 btn startup,Начать игру
